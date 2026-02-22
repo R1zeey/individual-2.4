@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "initial commit"
+git branch -M main
+git remote add origin https://github.com/R1zeey/individual-2.4.git
+git push -u origin main
